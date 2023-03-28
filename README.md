@@ -4,3 +4,4 @@ Animating a code-golf problem to the smallest byte solution overtime, using Pyth
 Pretty simple.
 
 ![img](anim.gif)
+ 
